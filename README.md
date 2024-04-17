@@ -26,7 +26,7 @@
 
 
 ## Contact
-Created by [@sana2403] - feel free to contact me!
+Created by @sana2403 - feel free to contact me!
 
 
 <!-- Optional -->
